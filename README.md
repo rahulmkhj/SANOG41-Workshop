@@ -42,7 +42,7 @@
 <td>ROV Q&A, Stats Demo</td>
 <td>
 
-[Slides](https://docs.google.com/presentation/d/1m35-yb7P50cdyn1eD2016QApkeT4SIf4/edit?usp=drive_link&ouid=106468105885295590074&rtpof=true&sd=true)
+[Slides](Slides/Day1/RPKI.pdf)
 
 </td>
 </tr>
@@ -56,12 +56,12 @@
 <td>14:30 - 16:00</td>
 <td>RPKI Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[RPKI Lab]()
+[RPKI Lab](https://academy.apnic.net/virtual-labs?labId=56323)
 
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -73,12 +73,12 @@
 <td>16:30 - 18:00</td>
 <td>RPKI Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[RPKI Lab]()
+[RPKI Lab](https://academy.apnic.net/virtual-labs?labId=56323)
 
 </td>
+<td></td>
 </tr>
 
 <tr><td colspan="5">
@@ -93,8 +93,6 @@
 <td>Exercise</td>
 <td>Resources</td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>10:00 - 11:30</td>
 <td>IPv6 Architecture</td>
@@ -102,7 +100,7 @@
 <td>IPv6 Q&A </td>
 <td>
 
-[Slides]()
+[Slides](Slides/Day2/IPv6_Architecture.pdf)
 
 </td>
 </tr>
@@ -119,7 +117,7 @@
 <td>IPv6 Q&A</td>
 <td>
 
-[Slides]()
+[Slides](Slides/Day2/IPv6-Address-Representation-And-Types.pdf)
 
 </td>
 </tr>
@@ -133,12 +131,12 @@
 <td>14:30 - 16:00</td>
 <td>OSPF Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[OSPF Lab]()
+[OSPF Lab](https://academy.apnic.net/virtual-labs?labId=65520)
 
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -150,12 +148,12 @@
 <td>16:30 - 18:00</td>
 <td>OSPF Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[OSPF Lab]()
+[OSPF Lab](https://academy.apnic.net/virtual-labs?labId=65520)
 
 </td>
+<td></td>
 </tr>
 
 <tr><td colspan="5">
@@ -170,8 +168,6 @@
 <td>Exercise</td>
 <td>Resources</td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>10:00 - 11:30</td>
 <td>BGP Basics, Scaling and Confederation</td>
@@ -179,7 +175,7 @@
 <td>BGP Q&A </td>
 <td>
 
-[Slides]()
+[BGP Basics](Slides/Day3/BGP-Basics.pdf), [BGP Scaling](Slides/Day3/BGP-Scaling.pdf), [BGP Confederation](Slides/Day3/BGP-Confederation.pdf)
 
 </td>
 </tr>
@@ -196,7 +192,7 @@
 <td>BGP Q&A</td>
 <td>
 
-[Slides]()
+[Slides](Slides/Day3/BGP-Policy-Control.pdf)
 
 </td>
 </tr>
@@ -210,12 +206,12 @@
 <td>14:30 - 16:00</td>
 <td>BGP Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[BGP Lab]()
+[BGP Lab](https://academy.apnic.net/virtual-labs?labId=69078)
 
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -227,12 +223,12 @@
 <td>16:30 - 18:00</td>
 <td>BGP Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[BGP Lab]()
+[BGP Lab](https://academy.apnic.net/virtual-labs?labId=69078)
 
 </td>
+<td></td>
 </tr>
 <tr><td colspan="5">
 
@@ -246,8 +242,6 @@
 <td>Exercise</td>
 <td>Resources</td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>10:00 - 11:30</td>
 <td>BGP Multihoming</td>
@@ -255,7 +249,7 @@
 <td>BGP Q&A </td>
 <td>
 
-[Slides]()
+[Slides](Slides/Day4/BGP-Multihoming.pdf)
 
 </td>
 </tr>
@@ -269,10 +263,10 @@
 <td>12:00 - 13:30</td>
 <td>BGP BCP</td>
 <td>Vijay Ahire</td>
-<td>IXP Peering Lab</td>
+<td>BGP BCPs</td>
 <td>
 
-[Slides]()
+[Slides](Slides/Day4/BGP-BCPs.pdf)
 
 </td>
 </tr>
@@ -286,12 +280,12 @@
 <td>14:30 - 16:00</td>
 <td>IXP Peering Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[IXP Peering Lab]()
+[IXP Peering Lab](https://academy.apnic.net/virtual-labs?labId=145487)
 
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -303,12 +297,12 @@
 <td>16:30 - 18:00</td>
 <td>IXP Peering Lab</td>
 <td>All</td>
-<td></td>
 <td>
 
-[IXP Peering Lab]()
+[IXP Peering Lab](https://academy.apnic.net/virtual-labs?labId=145487)
 
 </td>
+<td></td>
 </tr>
 </tbody>
 </table>
