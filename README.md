@@ -25,7 +25,7 @@
 <td> Ice Breaker</td>
 <td>
 
-[Slides](https://docs.google.com/presentation/d/1hM2_FRoqThh0TZhZRU0UhhZtbKcxvdjR0lCwaJu5Kmg/edit?usp=sharing)
+[Slides](Slides/Day1/Intro-and-Agenda.pdf)
 
 </td>
 </tr>
