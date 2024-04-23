@@ -30,7 +30,11 @@
 <td>IPv6 Architecture</td>
 <td>Milan Adhikari</td>
 <td>IPv6 Q&A</td>
-<td>[IPv6 Architecture](https://docs.google.com/presentation/d/1_38yHtjbB8jIUmQ2l5Yw0llONK0OPlEx/edit?usp=drive_link&ouid=106468105885295590074&rtpof=true&sd=true)</td>
+<td>
+
+[IPv6 Architecture](https://docs.google.com/presentation/d/1_38yHtjbB8jIUmQ2l5Yw0llONK0OPlEx/edit?usp=drive_link&ouid=106468105885295590074&rtpof=true&sd=true)
+
+</td>
 </tr>
 </tbody>
 
