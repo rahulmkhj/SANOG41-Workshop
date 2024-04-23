@@ -234,7 +234,7 @@
 
 </td>
 </tr>
-<tr><td>
+<tr><td colspan="5">
 
 - **Day 4 -- 28th April 2024**
 
